@@ -4,5 +4,5 @@
 点击链接 (https://link.stash.ws/install-config/raw.githubusercontent.com/666OS/YYDS/main/Stash/Stash666.yaml) 一键导入配置到 Stash APP
 
 2.油管流量直连版链接
-点击链接 (https://link.stash.ws/install-config/raw.githubusercontent.com/666OS/YYDS/main/Stash/Stash666-IPv6.yaml) 一键导入配置到 Stash APP
+点击链接 (https://link.stash.ws/install-config/raw.githubusercontent.com/Touch-ID/rule/refs/heads/main/Stash/Stash666-IPv6.yaml) 一键导入配置到 Stash APP
 （需IPv6, 同时打开软件网络设置中的 启用 Tunenl 兼容模式
